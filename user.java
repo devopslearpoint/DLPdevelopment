@@ -7,5 +7,8 @@ hello welcome to github
  "update the file in date of" :date
 
 
-=======
+
+ 
+ newly updated one
+
 >>>>>>> parent of 24fd3a7... modified one
